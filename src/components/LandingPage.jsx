@@ -233,7 +233,7 @@ export default function LandingPage() {
               <h3 className="text-white font-bold text-xl mb-4">Nexus</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
                 Building the future of digital experiences with cutting-edge
-                technology.
+                technology.This is feature footer branch
               </p>
             </div>
 
